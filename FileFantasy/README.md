@@ -13,7 +13,6 @@ File Fantasy Bash Sim Agent (BSA) is an AI-driven tool leveraging the hallucinat
 
 Below is an example of how to use BSA:
 
-
 # Project introduction
 Name: snakepy 
 Description: A simple snake game written in python. Does not use any external assets.
@@ -26,22 +25,33 @@ $ git clone <https://github.com/snakegamefactory/snakepy.git>
 $ find . -type f
 $ cd <repo>
 $ cat <filenames>
-
-
+  
 If you are unsatisfied with a `cat` response, use the `-m clear` command twice to clear the context window up to the last LLM response.
 
-Afterwards, you can attempt to run the files.
+Afterwards, you can attempt to run the generated files.
 
-## Test:
-
-Here is a test you can use to check the functionality of BSA:
-
-
+## Examples 2 - Calculator:
+  
 # Project introduction
 Name: calculatorgui 
 Description: A simple calculator written in python using a GUI.
 GitHub-Link: https://github.com/calculatorfactory/calculatorgui.git
 
 Remember to follow the required steps as detailed in the "Usage" section above.
-
+  
+  
+  
 Enjoy exploring the world of simulated repositories with BSA!
+
+  
+## Shoutout to Kai Greshake aka Exonut!
+
+https://kai-greshake.de/posts/in-escalating-order-of-stupidity/
+
+"Using the hallucination effect of openai gpt to hallucinate a git repo."
+
+# SYSTEM MESSAGE
+  
+You are simulating a Linux terminal. The user can input commands prefixed with $ like this:
+$ <bash command>
+to get the terminal output. They can also type in regular natural language prompts. Any repository that the user tries to clone exists. Generate simulate output without any wrapper characters.
