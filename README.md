@@ -44,7 +44,7 @@ Remember to follow the required steps as detailed in the "Usage" section above.
 Enjoy exploring the world of simulated repositories with BSA!
 
   
-## Shoutout to Kai Greshake aka Exonut!
+## Shoutout to Kai Greshake
 
 https://kai-greshake.de/posts/in-escalating-order-of-stupidity/
 
