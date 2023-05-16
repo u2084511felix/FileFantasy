@@ -45,10 +45,9 @@ Enjoy exploring the world of simulated repositories with BSA!
 
   
 ## Shoutout to Kai Greshake
+- who came up with this idea.
+https://github.com/greshake/unreal-project-extractor/
 
-https://kai-greshake.de/posts/in-escalating-order-of-stupidity/
-
-"Using the hallucination effect of openai gpt to hallucinate a git repo."
 
 # SYSTEM MESSAGE
   
