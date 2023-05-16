@@ -1,3 +1,7 @@
+## Shoutout to Kai Greshake
+- who came up with this idea.
+https://github.com/greshake/unreal-project-extractor/
+
 # File Fantasy Bash Sim Agent (BSA)
 
 File Fantasy Bash Sim Agent (BSA) is an AI-driven tool leveraging the hallucination capabilities of GPT to simulate a git repository. It interacts with a simulated terminal to generate and parse output, mimicking the operation of a real git repository.
@@ -39,15 +43,7 @@ GitHub-Link: https://github.com/calculatorfactory/calculatorgui.git
 
 Remember to follow the required steps as detailed in the "Usage" section above.
   
-  
-  
 Enjoy exploring the world of simulated repositories with BSA!
-
-  
-## Shoutout to Kai Greshake
-- who came up with this idea.
-https://github.com/greshake/unreal-project-extractor/
-
 
 # SYSTEM MESSAGE
   
