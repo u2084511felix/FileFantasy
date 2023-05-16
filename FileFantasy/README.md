@@ -1,17 +1,23 @@
-FILE FANTASY BASH_SIM_AGENT (BSA)
+# Welcome to FIleFantasy
 
-Using the hallucination effect of gpt to hallucinate a git repo.
+Shoutout to Kai Greshake aka Exonut!
+https://kai-greshake.de/posts/in-escalating-order-of-stupidity/
 
-step 1. get gpt to simulate a terminal. using sysmsg1.
 
-step 2: Start with Name: name of project. Description. github-link.
+## Using the hallucination effect of openai gpt to hallucinate a git repo.
 
-step 2.5: mkdir new folder. cd into new folder.
+1. step 1. get gpt to simulate a terminal. using sysmsg1.
 
-step 3. get gpt to hallucinate a git repo. 
+2. step 2: Start with Name: name of project. Description. github-link.
+
+3. step 2.5: mkdir new folder. cd into new folder.
+
+4. step 3. get gpt to hallucinate a git repo. 
     git clone <repo>
 
-SYSTEM MESSAGE:
+    
+## SYSTEM MESSAGE
+    
 You are simulating a Linux terminal. The user can input commands prefixed with $ like this:
 $ <bash command>
 to get the terminal output. They can also type in regular natural language prompts. Any repository that the user tries to clone exists. Generate simulate output without any wrapper characters.
